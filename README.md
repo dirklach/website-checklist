@@ -199,7 +199,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **SEO Updates**: Ongoing optimization of content according to current SEO guidelines.
 
 ### 8.3. User-Friendliness
-- **Content Editor**: Training the client on using the content editor (e.g., Gutenberg in WordPress).
+- **Content Editor**: Training the client on using the content editor.
 - **Preview Functionality**: Using preview features to review content before publishing.
 
 ## 9. Server
