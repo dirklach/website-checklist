@@ -1,6 +1,6 @@
 # Website Creation Checklist
 
-** WORK IN PROGRESS **
+** ⚠️ This list is under construction. **
 
 This comprehensive checklist provides a detailed guide for the complete process of website creation, covering all essential phases from initial briefing to final deployment and content management. It is designed to ensure that every aspect of the project is thoroughly planned and executed, providing a structured approach to building a successful website.
 
