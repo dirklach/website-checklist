@@ -5,55 +5,8 @@
 This comprehensive checklist provides a detailed guide for the complete process of creating a website, covering all essential phases from initial briefing to final deployment and content management. It is designed to ensure that every aspect of the project is thoroughly planned and executed, providing a structured approach to building a successful website.
 
 While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt, and a Headless WordPress setup—it is highly relevant for projects using any other technology stack. The principles, steps, and considerations outlined here are applicable across different frameworks and CMS platforms, making it a versatile tool for web development professionals and clients alike. Whether you’re working with React, Angular, traditional WordPress, or any other combination of technologies, this checklist serves as a valuable reference to ensure a smooth and efficient website development process.
-
-- [Website Creation Checklist](#website-creation-checklist)
-  * [1. Briefing](#1-briefing)
-    + [1.1. Project Goals and Requirements](#11-project-goals-and-requirements)
-    + [1.2. Roles and Responsibilities](#12-roles-and-responsibilities)
-    + [1.3. Communication](#13-communication)
-  * [2. Content](#2-content)
-    + [2.1. Content Creation](#21-content-creation)
-    + [2.2. Content Structure](#22-content-structure)
-    + [2.3. Content Planning](#23-content-planning)
-    + [2.4. Legal Considerations](#24-legal-considerations)
-  * [3. Conceptualization](#3-conceptualization)
-    + [3.1. Information Architecture](#31-information-architecture)
-    + [3.2. Functionalities](#32-functionalities)
-    + [3.3. Technology Stack](#33-technology-stack)
-    + [3.4. Prototyping](#34-prototyping)
-  * [4. Design](#4-design)
-    + [4.1. Visual Design](#41-visual-design)
-    + [4.2. Brand Identity](#42-brand-identity)
-    + [4.3. User Experience (UX)](#43-user-experience--ux-)
-    + [4.4. Design Tools](#44-design-tools)
-  * [5. Frontend Development](#5-frontend-development)
-    + [5.1. Basic Structure](#51-basic-structure)
-    + [5.2. Components](#52-components)
-    + [5.3. Routing](#53-routing)
-    + [5.4. Responsiveness](#54-responsiveness)
-    + [5.5. Testing](#55-testing)
-  * [6. Backend Development](#6-backend-development)
-    + [6.1. Headless CMS](#61-headless-cms)
-    + [6.2. User Management](#62-user-management)
-    + [6.3. Database Management](#63-database-management)
-    + [6.4. API Integration](#64-api-integration)
-    + [6.5. Testing & Debugging](#65-testing---debugging)
-  * [7. SEO](#7-seo)
-    + [7.1. On-Page SEO](#71-on-page-seo)
-    + [7.2. Technical SEO](#72-technical-seo)
-    + [7.3. SEO Tools](#73-seo-tools)
-    + [7.4. Off-Page SEO](#74-off-page-seo)
-  * [8. Content Management](#8-content-management)
-    + [8.1. Content Creation](#81-content-creation)
-    + [8.2. Maintenance](#82-maintenance)
-    + [8.3. User-Friendliness](#83-user-friendliness)
-  * [9. Server](#9-server)
-    + [9.1. Hosting](#91-hosting)
-    + [9.2. Deployment](#92-deployment)
-    + [9.3. Server Security](#93-server-security)
-    + [9.4. Performance Monitoring](#94-performance-monitoring)
     + 
-## 1. Briefing
+# 1. Briefing
 
 ### 1.1. Project Goals and Requirements
 - **Objective**: What is the primary goal of the website? (e.g., lead generation, e-commerce, informational)
@@ -71,7 +24,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **Communication Channels**: What tools will be used? (e.g., email, Slack, Zoom)
 - **Reporting**: Frequency and format of status updates.
 
-## 2. Content
+# 2. Content
 
 ### 2.1. Content Creation
 - **Text Content**: Who will create and deliver the text content? (e.g., service provider, client, external writer)
@@ -90,7 +43,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **Imprint**: Providing and reviewing the legal imprint.
 - **Terms of Service**: Drafting the terms and conditions.
 
-## 3. Conceptualization
+# 3. Concept
 
 ### 3.1. Information Architecture
 - **Wireframes**: Creation of wireframes for each page.
@@ -98,7 +51,6 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 
 ### 3.2. Functionalities
 - **Feature List**: Detailed listing of required features.
-- **Interaction Design**: Planning user interactions (e.g., forms, buttons, hover effects).
 
 ### 3.3. Technology Stack
 - **Frontend**: Selection of frameworks and libraries (e.g., Vue.js, Nuxt.js).
@@ -108,7 +60,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 ### 3.4. Prototyping
 - **Interactive Prototypes**: Creating a clickable prototype to visualize the user experience.
 
-## 4. Design
+# 4. Design
 
 ### 4.1. Visual Design
 - **Design System**: Developing a consistent design system (colors, typography, buttons).
@@ -126,7 +78,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 ### 4.4. Design Tools
 - **Design Software**: Selection of tools for design creation (e.g., Figma, Adobe XD, Sketch).
 
-## 5. Frontend Development
+# 5. Frontend Development
 
 ### 5.1. Basic Structure
 - **HTML/CSS**: Building the foundational structure of the website.
@@ -148,7 +100,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **Unit Tests**: Writing unit tests for Vue components.
 - **Browser Compatibility**: Ensuring the website works across all major browsers.
 
-## 6. Backend Development
+# 6. Backend Development
 
 ### 6.1. Headless CMS
 - **WordPress Installation**: Setting up WordPress as a headless CMS.
@@ -170,7 +122,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **Backend Tests**: Writing unit and integration tests for the backend.
 - **Debugging**: Debugging API calls and database operations.
 
-## 7. SEO
+# 7. SEO
 
 ### 7.1. On-Page SEO
 - **Meta Tags**: Optimizing titles, descriptions, and keywords.
@@ -190,7 +142,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **Backlinks**: Strategy for generating backlinks.
 - **Social Media Integration**: Linking social media channels to improve SEO.
 
-## 8. Content Management
+# 8. Content Management
 
 ### 8.1. Content Creation
 - **Creating New Pages**: Adding and structuring new pages and posts.
@@ -204,7 +156,7 @@ While this checklist is tailored for a specific tech stack—utilizing Vue, Nuxt
 - **Content Editor**: Training the client on using the content editor.
 - **Preview Functionality**: Using preview features to review content before publishing.
 
-## 9. Server
+# 9. Server
 
 ### 9.1. Hosting
 - **Selecting Hosting Provider**: Choosing a hosting provider (Shared Hosting, VPS, Dedicated Server).
